@@ -1,0 +1,22 @@
+/*.boxmodel {
+	border: 5px solid red;
+	display: inline-block;
+	padding: 5px 20px 5px 20px; /*top right bottom left*/ 
+	/*trumpinys: 5px(top and bottom) 20px(left and right);*/
+	/*margin: 0px 20px;*/ /*top right bottom left*/
+	/*width: 25px;
+	height: 25px;*/
+/*}*/
+
+h2 {
+	color: lightgreen;
+}
+
+p {
+	font-size: 20px;
+}
+
+span {
+	/*font-size: 2em;*/ /* 2x then 20px poveikis vyksta su tekstu*/
+	font-size: 5rem; /* poveikis nevyksta su tekstu atsiskiria nuo teksto dydžio */
+} 

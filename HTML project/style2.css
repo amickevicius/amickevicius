@@ -1,0 +1,24 @@
+h2 {
+	color: yellow;
+}
+
+p {
+	text-decoration: underline;
+	/*text-transform: uppercase;*/
+	line-height: 30px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 100%;
+	/*font-family: "Time New Roman", Georgia;*/ /*google fonts*/
+	font-family: 'Palette Mosaic', cursive; /*from google fonts in internet*/
+
+}
+
+img {
+	float: left;
+}
+
+footer {
+	clear: both;
+	text-align: center;
+}
